@@ -47,7 +47,10 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
-# Program :![prog](https://github.com/saxxxxxxx/Mean-and-Variance/assets/154911090/8edc2723-2fa8-4eb2-86aa-36a0096c7f17)
+# Program :
+         Developed by: R SAKET RAM 
+         REGISTER NO: 23013948
+![prog](https://github.com/saxxxxxxx/Mean-and-Variance/assets/154911090/8edc2723-2fa8-4eb2-86aa-36a0096c7f17)
 
 
 
